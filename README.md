@@ -1,4 +1,6 @@
 BuyPoisons - a World of Warcraft (1.12.1) AddOn (modification) adapted for Turtle WoW by Bloodphobos
+
+23May2025: upate to include Corrsovie Poisons II/I. 
 ====================================
 
 Installation:
